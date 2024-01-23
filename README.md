@@ -1,6 +1,6 @@
 -  Hi, I'm Jeremy
 -  I’m interested in Infortmation Technology
--  I’m currently learning Cloud and Network Secuirty Engineering
+-  I’m currently learning Cloud and Network Security Engineering
 -  I’m looking to collaborate on Microsoft Azure, CompTIA and AWS
 -  You can reach me at jeremybons@gmail.com
 -  Pronouns:  He/Him
