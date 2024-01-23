@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bonsu96
-- 👀 I’m interested in ... progress
+- 👋 Hi, I'm Jeremy
+- 👀 I’m interested in Infortmation Technology
 - 🌱 I’m currently learning ... Cloud and Network Secuirty Engineering
 - 💞️ I’m looking to collaborate on ... Microsoft Azure, CompTIA and AWS
 - 📫 How to reach me ... jeremybons@gmail.com
