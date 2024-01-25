@@ -1,13 +1,14 @@
 -  <h1>Hi, I'm Jeremy, an <a href="www.linkedin.com/in/jeremy-bonsu-6383a6249">Cloud and Network Security Support Specialist </a>
 -  I’m interested in Infortmation Technology
--  I’m currently learning Cloud and Network Security Engineering
--  I’m looking to collaborate on Microsoft Azure, CompTIA and AWS
+-  I’m currently learning Cloud and Network Security Engineering and am looking to collaborate on Microsoft Azure, CompTIA and AWS
 -  You can reach me at jeremybons@gmail.com
--  Pronouns:  He/Him
+
 <!---
 Bonsu96/Bonsu96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
 
  <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Bonsu96/osticket)
