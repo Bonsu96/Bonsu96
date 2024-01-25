@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Bonsu96/osticket-lifecyle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Bonsu96/activedirectory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)-
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Bonsu96/azurenetworkprotocols/blob/main/README.md)-
  
 
 
