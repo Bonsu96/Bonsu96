@@ -16,5 +16,9 @@ You can click the Preview link to take a look at your changes.
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Bonsu96/activedirectory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)-
-  
--  Fun fact: "Humans are capable of incredible acts of kindness and cooperation. Studies have shown that witnessing acts of kindness, generosity, or cooperation can have a contagious effect, inspiring others to engage in similar behavior. This ripple effect highlights the innate capacity for empathy and altruism within the human species. So, by simply being kind, you not only positively impact others directly but also contribute to a chain reaction of compassion within the broader human community.
+ 
+
+
+
+
+Fun fact: "Humans are capable of incredible acts of kindness and cooperation. Studies have shown that witnessing acts of kindness, generosity, or cooperation can have a contagious effect, inspiring others to engage in similar behavior. This ripple effect highlights the innate capacity for empathy and altruism within the human species. So, by simply being kind, you not only positively impact others directly but also contribute to a chain reaction of compassion within the broader human community.
